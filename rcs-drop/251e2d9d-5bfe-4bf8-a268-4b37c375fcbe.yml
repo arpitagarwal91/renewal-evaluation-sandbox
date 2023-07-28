@@ -1,0 +1,11 @@
+### YamlMime:RenewalAssessment
+certificationUid: certification.azure-administrator
+referencedQuestionnaires:
+- questionnaireUid: 835c007a-57b3-4294-b8b0-c91463107c05
+  questionsToTake: 1
+  questionsToPass: 1
+- questionnaireUid: 9926f0b6-0848-4c76-b07c-f2fa0246c2f6
+  questionsToTake: 1
+  questionsToPass: 1
+uid: 251e2d9d-5bfe-4bf8-a268-4b37c375fcbe
+title: Saad's Test

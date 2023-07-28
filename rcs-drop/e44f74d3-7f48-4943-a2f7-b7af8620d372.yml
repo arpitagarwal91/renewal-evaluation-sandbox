@@ -1,0 +1,45 @@
+### YamlMime:QuestionSet
+scenario: >-
+  This is a paragraph.
+
+
+  1. Ordered list item 1
+
+
+  1. Ordered list item 2
+
+
+  1. Ordered list item 3
+
+
+  This is a second paragraph.
+
+
+  - Unordered list item 1
+
+
+  - Unordered list item 2
+
+
+  - unordered list item 3
+questionnaireUid: 2e0fc287-8d2d-4930-afbd-01519f1a7344
+questions:
+- uid: e44f74d3-7f48-4943-a2f7-b7af8620d372-q-0
+  title: ""
+  prompt: ""
+  type: MultiSelect
+  choices:
+  - id: 0
+    text: Right
+    isCorrect: true
+  - id: 1
+    text: Wrong
+    isCorrect: false
+  - id: 2
+    text: Wrong
+    isCorrect: false
+  - id: 3
+    text: Wrong
+    isCorrect: false
+uid: e44f74d3-7f48-4943-a2f7-b7af8620d372
+title: ""

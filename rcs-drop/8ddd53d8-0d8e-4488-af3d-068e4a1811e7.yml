@@ -1,0 +1,17 @@
+### YamlMime:QuestionSet
+scenario: sdfsd
+questionnaireUid: fdaf7c30-287c-4fdc-bb54-b596b05e3f8e
+questions:
+- uid: 8ddd53d8-0d8e-4488-af3d-068e4a1811e7-q-0
+  title: ""
+  prompt: ""
+  type: SingleSelect
+  choices:
+  - id: 0
+    text: sdfd
+    isCorrect: true
+  - id: 1
+    text: sdfdssf
+    isCorrect: false
+uid: 8ddd53d8-0d8e-4488-af3d-068e4a1811e7
+title: ""

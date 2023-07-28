@@ -1,0 +1,9 @@
+### YamlMime:RenewalAssessment
+certificationUid: certification.azure-for-sap-workloads-specialty-test
+referencedQuestionnaires:
+- questionnaireUid: ae33fde6-c2d0-47b7-bc37-61e141b5c450
+  questionsToTake: 1
+  questionsToPass: 1
+uid: 2f7447ed-c67a-4851-8511-00d0b8159cf5
+title: garrett test purple
+manualId: ""

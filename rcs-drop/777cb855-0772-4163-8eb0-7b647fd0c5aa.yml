@@ -1,0 +1,9 @@
+### YamlMime:RenewalAssessment
+certificationUid: certification.azure-administrator
+referencedQuestionnaires:
+- questionnaireUid: c3042029-295a-47a0-9d7a-6b61d3339dd3
+  questionsToTake: 1
+  questionsToPass: 1
+timer: 2
+uid: 777cb855-0772-4163-8eb0-7b647fd0c5aa
+title: Test timed assessment

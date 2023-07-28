@@ -1,0 +1,17 @@
+### YamlMime:QuestionSet
+scenario: he
+questionnaireUid: 57de4300-c082-4b87-b3c2-0285c749745c
+questions:
+- uid: ba0f6381-4142-486d-9c71-30ba9d6a2744-q-0
+  title: ""
+  prompt: ""
+  type: SingleSelect
+  choices:
+  - id: 0
+    text: "1"
+    isCorrect: true
+  - id: 1
+    text: "2"
+    isCorrect: false
+uid: ba0f6381-4142-486d-9c71-30ba9d6a2744
+title: ""

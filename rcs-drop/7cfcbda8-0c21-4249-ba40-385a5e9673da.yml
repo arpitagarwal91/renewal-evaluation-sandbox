@@ -1,0 +1,9 @@
+### YamlMime:RenewalAssessment
+certificationUid: certification.azure-administrator
+referencedQuestionnaires:
+- questionnaireUid: 9926f0b6-0848-4c76-b07c-f2fa0246c2f6
+  questionsToTake: 3
+  questionsToPass: 0
+uid: 7cfcbda8-0c21-4249-ba40-385a5e9673da
+title: Xinxin's test assessment
+manualId: "700.1"

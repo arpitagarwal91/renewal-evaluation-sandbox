@@ -1,0 +1,21 @@
+### YamlMime:QuestionSet
+scenario: >+
+  Two plus two is four
+
+questionnaireUid: 6a12a4d6-88f2-4b1c-87df-54d92142bcb0
+questions:
+- uid: fae4f308-6a10-486b-8a59-db0112b0fa3b-q-0
+  title: ""
+  prompt: ""
+  type: SingleSelect
+  choices:
+  - id: 0
+    text: "True"
+    isCorrect: true
+  - id: 1
+    text: "false"
+    isCorrect: false
+  manualId: ""
+uid: fae4f308-6a10-486b-8a59-db0112b0fa3b
+title: ""
+manualId: ""

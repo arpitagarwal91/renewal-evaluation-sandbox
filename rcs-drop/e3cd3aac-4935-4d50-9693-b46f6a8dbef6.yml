@@ -1,0 +1,9 @@
+### YamlMime:RenewalAssessment
+certificationUid: certification.azure-administrator
+referencedQuestionnaires:
+- questionnaireUid: 670e2839-d117-46e3-9328-628dad595c2b
+  questionsToTake: 5
+  questionsToPass: 3
+uid: e3cd3aac-4935-4d50-9693-b46f6a8dbef6
+title: Test page
+manualId: test-page-item-name

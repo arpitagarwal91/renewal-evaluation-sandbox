@@ -1,0 +1,19 @@
+### YamlMime:QuestionSet
+scenario: this is question 1 test for garrett test purple questionnaire
+questionnaireUid: ae33fde6-c2d0-47b7-bc37-61e141b5c450
+questions:
+- uid: 630fec42-f77c-4078-b6c3-7f76bd0a2bc8-q-0
+  title: ""
+  prompt: ""
+  type: SingleSelect
+  choices:
+  - id: 0
+    text: purple is correct
+    isCorrect: true
+  - id: 1
+    text: others are incorrect
+    isCorrect: false
+  manualId: ""
+uid: 630fec42-f77c-4078-b6c3-7f76bd0a2bc8
+title: ""
+manualId: ""

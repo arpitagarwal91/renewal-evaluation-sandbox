@@ -1,0 +1,17 @@
+### YamlMime:QuestionSet
+scenario: fgfhfhrhte
+questionnaireUid: fdaf7c30-287c-4fdc-bb54-b596b05e3f8e
+questions:
+- uid: 5b8cceb9-c712-49b4-b61c-cf5dcffbd5bc-q-0
+  title: ""
+  prompt: eherehdf
+  type: SingleSelect
+  choices:
+  - id: 0
+    text: erte
+    isCorrect: false
+  - id: 1
+    text: grebr
+    isCorrect: true
+uid: 5b8cceb9-c712-49b4-b61c-cf5dcffbd5bc
+title: questionSet

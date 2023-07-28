@@ -1,0 +1,26 @@
+### YamlMime:QuestionSet
+scenario: >+
+  *this is a test*
+
+questionnaireUid: 9926f0b6-0848-4c76-b07c-f2fa0246c2f6
+questions:
+- uid: 80e0c0a1-4bfd-4440-8e46-ad7b8025c893-q-0
+  title: ""
+  prompt: ""
+  type: SingleSelect
+  choices:
+  - id: 0
+    text: "2"
+    isCorrect: true
+  - id: 1
+    text: "3"
+    isCorrect: false
+  - id: 2
+    text: "4"
+    isCorrect: false
+  - id: 3
+    text: none of the above
+    isCorrect: false
+  manualId: 1-1-itemname
+uid: 80e0c0a1-4bfd-4440-8e46-ad7b8025c893
+title: ""

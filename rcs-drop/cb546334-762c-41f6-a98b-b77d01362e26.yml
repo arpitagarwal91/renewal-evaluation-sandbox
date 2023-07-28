@@ -1,0 +1,17 @@
+### YamlMime:QuestionSet
+scenario: Hello, is it me u looking for?
+questionnaireUid: 1a184078-a9c1-4879-8283-c697504dda96
+questions:
+- uid: cb546334-762c-41f6-a98b-b77d01362e26-q-0
+  title: ""
+  prompt: ""
+  type: SingleSelect
+  choices:
+  - id: 0
+    text: Yes
+    isCorrect: true
+  - id: 1
+    text: No
+    isCorrect: false
+uid: cb546334-762c-41f6-a98b-b77d01362e26
+title: ""

@@ -1,0 +1,8 @@
+### YamlMime:RenewalAssessment
+certificationUid: certification.azure-administrator
+referencedQuestionnaires:
+- questionnaireUid: c3042029-295a-47a0-9d7a-6b61d3339dd3
+  questionsToTake: 1
+  questionsToPass: 1
+uid: 0b8bed07-82ad-4b6b-a148-cf458827970b
+title: something

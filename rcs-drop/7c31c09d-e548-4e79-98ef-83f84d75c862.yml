@@ -1,0 +1,19 @@
+### YamlMime:QuestionSet
+scenario: How many cats should you have?
+questionnaireUid: c273ee3c-8d7b-4ef8-a882-d71068cc1a12
+questions:
+- uid: 7c31c09d-e548-4e79-98ef-83f84d75c862-q-0
+  title: ""
+  prompt: ""
+  type: SingleSelect
+  choices:
+  - id: 0
+    text: None
+    isCorrect: false
+  - id: 1
+    text: Many
+    isCorrect: true
+  manualId: q-7-8
+uid: 7c31c09d-e548-4e79-98ef-83f84d75c862
+title: ""
+manualId: ""

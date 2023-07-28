@@ -1,0 +1,17 @@
+### YamlMime:QuestionSet
+scenario: What do you plan to name your cat?
+questionnaireUid: 8594dbc0-3964-49d2-a8a5-a81fd027bd21
+questions:
+- uid: e7f81360-5d7d-48ec-bd4d-abd2f0c41647-q-0
+  title: ""
+  prompt: ""
+  type: SingleSelect
+  choices:
+  - id: 0
+    text: Cattoven
+    isCorrect: true
+  - id: 1
+    text: Cat-sama
+    isCorrect: false
+uid: e7f81360-5d7d-48ec-bd4d-abd2f0c41647
+title: ""

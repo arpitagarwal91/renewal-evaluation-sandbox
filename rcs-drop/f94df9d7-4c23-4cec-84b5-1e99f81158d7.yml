@@ -1,0 +1,15 @@
+### YamlMime:RenewalAssessment
+certificationUid: certification.azure-administrator
+referencedQuestionnaires:
+- questionnaireUid: 670e2839-d117-46e3-9328-628dad595c2b
+  questionsToTake: 1
+  questionsToPass: 0
+- questionnaireUid: fdaf7c30-287c-4fdc-bb54-b596b05e3f8e
+  questionsToTake: 1
+  questionsToPass: 0
+- questionnaireUid: 9926f0b6-0848-4c76-b07c-f2fa0246c2f6
+  questionsToTake: 1
+  questionsToPass: 0
+uid: f94df9d7-4c23-4cec-84b5-1e99f81158d7
+title: brian new22222
+manualId: item-name-22222

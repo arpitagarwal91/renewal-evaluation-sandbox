@@ -1,0 +1,19 @@
+### YamlMime:Questionnaire
+studyMaterials:
+- uid: learn-test.align-requirements-in-azure
+  type: Module
+- uid: learn-test.automate-azure-tasks-with-powershell
+  type: Module
+- uid: learn-test.control-and-organize-with-resource-manager
+  type: Module
+- uid: learn-test.control-azure-services-with-cli
+  type: Module
+- uid: learn-test.deploy-vms-from-vhd-templates
+  type: Module
+- uid: learn-test.azure.move-azure-resources-to-another-resource-group
+  type: Module
+- uid: learn-test.predict-costs-and-optimize-spending
+  type: Module
+uid: 9926f0b6-0848-4c76-b07c-f2fa0246c2f6
+title: Xinxin Questionnaire
+manualId: 700.1.1
